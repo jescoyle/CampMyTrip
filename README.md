@@ -2,8 +2,8 @@
 A program to find the optimal campgrounds along a route.
 
 Currently there are two scripts:  
-+*download_campgrounds.R*:   Used to download all data on campgrounds from the US and convert to a csv file.
-+*CampMyTrip.R*:   Currently conducts exploratory analysis of data and generates two figures (see below).  
+  + *download_campgrounds.R*:   Used to download all data on campgrounds from the US and convert to a csv file.
+  + *CampMyTrip.R*:   Currently conducts exploratory analysis of data and generates two figures (see below).  
 
 
 **Figure 1. Number of campgrounds in the ReserveAmerica database within 25km of U.S. Interstate Highways.**  
